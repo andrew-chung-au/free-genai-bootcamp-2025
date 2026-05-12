@@ -15,7 +15,7 @@ The bootcamp was a comprehensive program delivered through Youtube, Discord, and
 ### 🚀 Main Project: Lang Portal
 An integrated language learning platform using AWS Bedrock and modern web technologies:
 
-![LangPortal-Ecosystem.png](lang-portal/assets/LangPortal-Ecosystem.png)
+![LangPortal-Ecosystem.png](https://github.com/andrew-chung-au/free-genai-bootcamp-2025/blob/main/lang-portal/assets/LangPortal-Ecosystem.png?raw=true)
 
 | Application | Description |
 |-------------|-------------|
