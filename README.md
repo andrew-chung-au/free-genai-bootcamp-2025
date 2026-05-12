@@ -15,6 +15,8 @@ The bootcamp was a comprehensive program delivered through Youtube, Discord, and
 ### 🚀 Main Project: Lang Portal
 An integrated language learning platform using AWS Bedrock and modern web technologies:
 
+![LangPortal-Ecosystem.png](lang-portal/assets/LangPortal-Ecosystem.png)
+
 | Application | Description |
 |-------------|-------------|
 | **[Lang Portal](lang-portal/)** | Core platform and shared services |
@@ -54,9 +56,8 @@ Collection of implementation exploration exercises during the bootcamp:
 - **Backend**: Flask, SQLite
 - **Infrastructure**: Docker, Docker Compose
 
-## Acknowledgements (TBC)
+## Acknowledgements
 
-Special thanks to:
-- Bootcamp organizers and mentors, including Andrew Brown and the ExamPro team
-- Guest instructors and industry experts
-- Open-source community contributors
+Special thanks to the organizers and community behind the [Free GenAI Bootcamp 2025](https://github.com/ExamProCo/free-genai-bootcamp-2025):
+- **Andrew Brown and the [ExamPro](https://www.exampro.co/) Team** for the curriculum, guidance, and project frameworks.
+- The guest instructors, industry experts, and the open-source community contributors who provided support throughout the 6-week program.
